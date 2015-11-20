@@ -1,2 +1,13 @@
-# akaifi.github.io
-My GitHub Page
+# <img src='https://raw.githubusercontent.com/akaifi/akaifi.github.io/master/img/AK100.png' width="200" height="200" /> akaifi.github.io
+_My GitHub Page_
+
+
+Here you find the source code of my website. Nothing fancy! Hope you like it
+
+
+
+
+To clone this site:
+```Shell
+git clone https://github.com/akaifi/akaifi.github.io.git
+```
