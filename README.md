@@ -13,3 +13,5 @@ git clone https://github.com/akaifi/akaifi.github.io.git
 ```
 <iframe src="http://ghbtns.com/github-btn.html?user=akaifi&repo=akaifi.github.io&type=fork"
   allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
+
+  [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=akaifi&url=https://github.com/akaifi/akaifi.github.io&title=akaifi.github.io&language=HTML&tags=github&category=software)
