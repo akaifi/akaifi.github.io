@@ -17,5 +17,5 @@ git clone https://github.com/akaifi/akaifi.github.io.git
   [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=akaifi&url=https://github.com/akaifi/akaifi.github.io&title=akaifi.github.io&language=HTML&tags=github&category=software)
 
 
-[![star this repo](http://githubbadges.com/star.svg?user=akaifi&repo=akaifi.github.io&style=flat&color=f2f2f2&background=222222)](https://github.com/akaifi/akaifi.github.io)
+[![star this repo](http://githubbadges.com/star.svg?user=akaifi&repo=akaifi.github.io&style=flat&color=f2f2f2&background=222222)](https://github.com/akaifi/akaifi.github.io/star)
 [![fork this repo](http://githubbadges.com/fork.svg?user=akaifi&repo=akaifi.github.io&style=flat&color=f2f2f2&background=222222)](https://github.com/akaifi/akaifi.github.io/fork)
