@@ -1,0 +1,6 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="500" width="500" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 500.00001 500.00001">
+ <g transform="translate(0 -552)">
+  <path stroke-linejoin="round" d="m488 803-238-238-64.7 65s168 81.2 239 237c-74 73-173 173-173 173l-46-46 141-141s-57.9-90.5-99.8-90.5-119 51.4-119 84.3c0 32.8 65.8 69.9 65.8 69.9s70.2-36.4 70.1-70.6c-0.093-34.3-104-88.1-104-88.1l46.7-46.2-51.8-51-140 141 38.4 38.4" stroke="#f2f2f2" stroke-linecap="round" stroke-width="7" fill="none"/>
+  <circle cx="784" cy="543" transform="rotate(45)" r="27.4" fill="#be284b"/>
+ </g>
+</svg>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 500.00001 500.00001"
+   id="svg4149"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="akaifiLogo.svg">
+  <defs
+     id="defs4151" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.866"
+     inkscape:cx="250"
+     inkscape:cy="250"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1170"
+     inkscape:window-x="1080"
+     inkscape:window-y="673"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4154">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-552.36216)">
+    <path
+       sodipodi:nodetypes="ccccccczzczccccc"
+       inkscape:connector-curvature="0"
+       id="path4584"
+       d="m 487.97057,802.77425 -237.6785,-238.26087 -64.71545,65.04865 c 0,0 168.18189,81.23171 238.73365,236.75393 C 350.19393,940.43232 250.6285,1040.2079 250.6285,1040.2079 L 204.8068,994.38621 345.69865,853.49429 c 0,0 -57.93714,-90.49328 -99.81119,-90.49328 -41.87404,0 -119.48971,51.43946 -119.48971,84.25148 0,32.81206 65.78052,69.85712 65.78052,69.85712 0,0 70.20315,-36.37088 70.11013,-70.6464 -0.093,-34.27549 -103.95409,-88.05146 -103.95409,-88.05146 l 46.68016,-46.20699 -51.8205,-51.01829 -140.493317,140.54584 38.428231,38.42822"
+       style="fill:none;fill-rule:evenodd;stroke:#f2f2f2;stroke-width:10.77013969;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="54.936279"
+       inkscape:export-ydpi="54.936279"
+       inkscape:export-filename="/home/akaifi/WWW/akaifiIcon1.png" />
+    <circle
+       style="fill:#be284b;fill-opacity:1;stroke:none;stroke-width:91.94599915;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5855"
+       cx="783.55444"
+       cy="543.09039"
+       r="27.419209"
+       inkscape:export-xdpi="100.15573"
+       inkscape:export-ydpi="100.15573"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+       inkscape:export-filename="/home/akaifi/WWW/akaifiIcon1.png" />
+  </g>
+</svg>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="114"
+   height="114"
+   viewBox="0 0 114 114"
+   id="svg7648"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/home/akaifi/Projects/akaifi.github.io/img/ficon/favicon-114.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="favicon-114.svg">
+  <defs
+     id="defs7650" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.8684211"
+     inkscape:cx="57"
+     inkscape:cy="57"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="960"
+     inkscape:window-height="1170"
+     inkscape:window-x="2040"
+     inkscape:window-y="673"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7653">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-938.36216)">
+    <path
+       style="fill:#be284b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+       d="m 63.205704,938.36034 4.025733,3.94936 a 5.8079604,5.7879867 0 0 1 0.01117,8.23698 l -14.224491,14.03266 c 1.643016,0.93561 3.572128,2.08969 5.573739,3.29524 7.375567,-3.52905 14.926824,-5.81356 21.855889,-5.81356 6.520382,0 12.25004,3.15559 17.554602,7.11738 5.304543,3.96173 10.241373,8.98321 14.579543,13.94336 0.34431,0.3937 0.67823,0.78597 1.01483,1.17877 A 57.350417,57.153178 0 0 0 63.205658,938.36034 Z m -15.94162,0.60164 a 57.350417,57.153178 0 0 0 -47.26480501,56.24565 57.350417,57.153178 0 0 0 57.35040501,57.15327 57.350417,57.153178 0 0 0 56.651466,-48.731 c -2.50026,-3.4848 -6.0554,-8.19245 -10.17523,-12.90296 -4.003711,-4.57775 -8.516208,-9.09414 -12.789586,-12.28575 -4.273346,-3.19159 -8.25157,-4.80442 -10.588542,-4.80442 -2.486816,0 -5.969773,0.88977 -9.715968,2.15108 4.969438,3.4823 9.893255,7.24732 13.896272,11.28213 4.566971,4.60329 8.54783,9.41923 8.565596,15.95052 0.01506,5.5909 -2.646152,10.3296 -5.886251,14.3753 -3.240096,4.0456 -7.265412,7.5523 -11.213579,10.5532 -7.896304,6.0019 -15.69519,10.0099 -15.69519,10.0099 a 5.8079604,5.7879867 0 0 1 -5.521096,-0.097 c 0,0 -7.31897,-4.0897 -14.727403,-10.0888 -3.704226,-2.9996 -7.481869,-6.4862 -10.521343,-10.4584 -3.039468,-3.9721 -5.537895,-8.5546 -5.537895,-13.9467 0,-5.73996 2.946423,-10.57714 6.768917,-15.10989 3.822493,-4.53262 8.828064,-8.79743 14.377928,-12.60491 0.587025,-0.40277 1.223749,-0.73566 1.820201,-1.12855 -3.640036,-2.06392 -6.318629,-3.47159 -6.318629,-3.47159 a 5.8079604,5.7879867 0 0 1 -1.415839,-9.25282 l 15.567504,-15.35656 -7.626933,-7.4824 z m 10.9593,42.36815 c -2.185126,1.20824 -4.368185,2.46366 -6.400392,3.85783 -4.873258,3.34336 -9.183911,7.09448 -12.071588,10.51871 -2.887677,3.42421 -4.045889,6.48543 -4.045889,7.66203 0,1.5246 0.980416,4.082 3.15875,6.9288 2.178337,2.8467 5.357551,5.8584 8.6104,8.4926 4.342797,3.5166 7.933548,5.8221 10.367883,7.3125 2.562274,-1.4444 6.465482,-3.7534 11.206849,-7.3572 3.47176,-2.6389 6.863097,-5.6761 9.180554,-8.5697 2.317446,-2.8935 3.353754,-5.4897 3.349171,-7.124 -0.0017,-0.6939 -1.527192,-4.1311 -5.209694,-7.84298 -3.682504,-3.71181 -8.945177,-7.7576 -14.260324,-11.37253 -1.319927,-0.89774 -2.583172,-1.66747 -3.88572,-2.50606 z"
+       id="path4150"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:91.94599915;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5855"
+       cx="769.20563"
+       cy="703.8194"
+       r="10.656673"
+       inkscape:export-xdpi="100.15573"
+       inkscape:export-ydpi="100.15573"
+       transform="matrix(0.70711888,0.70709468,-0.70711888,0.70709468,0,0)"
+       inkscape:export-filename="/home/akaifi/WWW/akaifiIcon1.png" />
+  </g>
+</svg>

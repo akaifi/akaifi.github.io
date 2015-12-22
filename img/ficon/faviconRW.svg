@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   viewBox="0 0 200 200"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/home/akaifi/Projects/akaifi.github.io/img/ficon/favicon-200.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="faviconRW.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="39.905869"
+     inkscape:cy="57.052663"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1170"
+     inkscape:window-x="1080"
+     inkscape:window-y="673"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,200"
+       id="guide4138" />
+    <sodipodi:guide
+       position="200,0"
+       orientation="-200,0"
+       id="guide4140" />
+    <sodipodi:guide
+       position="200,200"
+       orientation="0,-200"
+       id="guide4142" />
+    <sodipodi:guide
+       position="0,200"
+       orientation="200,0"
+       id="guide4144" />
+    <sodipodi:guide
+       position="99.702056,118.79394"
+       orientation="1,0"
+       id="guide4237" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-852.36216)">
+    <path
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+       d="m 110.88968,852.36015 7.06244,6.92873 a 10.189042,10.154349 0 0 1 0.0196,14.45079 l -24.954367,24.61868 c 2.882379,1.64143 6.266677,3.66606 9.778147,5.78114 12.93913,-6.19137 26.18648,-10.19921 38.3423,-10.19921 11.43886,0 21.49053,5.53612 30.79646,12.48658 9.3059,6.95043 17.96669,15.76005 25.57723,24.462 0.60405,0.69068 1.18984,1.37889 1.78035,2.06804 A 100.61119,100.2686 0 0 0 110.8896,852.36015 Z M 82.922917,853.4157 A 100.61119,100.2686 0 0 0 0.00515722,952.09215 100.61119,100.2686 0 0 0 100.61633,1052.3607 100.61119,100.2686 0 0 0 200.00132,966.86808 c -4.38627,-6.1139 -10.6231,-14.37284 -17.85063,-22.63683 -7.0238,-8.03105 -14.94019,-15.95454 -22.43708,-21.55382 -7.49684,-5.59932 -14.47592,-8.42885 -18.57573,-8.42885 -4.36268,0 -10.47291,1.56096 -17.04495,3.77379 8.718,6.10935 17.35597,12.71457 24.37856,19.79325 8.01195,8.07592 14.99566,16.52485 15.02683,27.98316 0.0265,9.80872 -4.6422,18.12235 -10.32639,25.21991 -5.68418,7.09759 -12.74589,13.24971 -19.67225,18.51441 -13.85267,10.5296 -27.53444,17.561 -27.53444,17.561 a 10.189042,10.154349 0 0 1 -9.685795,-0.1688 c 0,0 -12.839835,-7.1748 -25.836634,-17.6995 -6.498403,-5.2624 -13.125616,-11.3794 -18.457831,-18.3481 -5.332213,-6.96873 -9.715265,-15.00812 -9.715267,-24.46789 3e-6,-10.07012 5.168982,-18.55647 11.87487,-26.50852 6.70589,-7.95203 15.487285,-15.43413 25.223538,-22.11392 1.029831,-0.70656 2.146851,-1.29057 3.193225,-1.97992 -6.385801,-3.62089 -11.084916,-6.09053 -11.084916,-6.09053 A 10.189042,10.154349 0 0 1 68.99259,893.48398 L 96.303026,866.54268 82.922917,853.4157 Z m 19.226163,74.33 c -3.833426,2.11971 -7.663218,4.32216 -11.22836,6.76809 -8.549271,5.86545 -16.111551,12.44644 -21.177474,18.45375 -5.065924,6.00732 -7.097804,11.37792 -7.097804,13.44227 0,2.67472 1.719971,7.16126 5.541475,12.15558 3.821504,4.99438 9.398874,10.27813 15.105433,14.8993 7.618663,6.16966 13.918003,10.21431 18.18862,12.82911 4.49506,-2.534 11.34255,-6.58491 19.66044,-12.90744 6.09059,-4.62945 12.04009,-9.95794 16.10566,-15.03442 4.06555,-5.07648 5.88357,-9.6313 5.87553,-12.49832 -0.003,-1.21738 -2.67919,-7.24762 -9.13949,-13.75951 -6.4603,-6.51191 -15.69273,-13.60986 -25.01722,-19.95187 -2.31558,-1.57493 -4.53172,-2.92535 -6.81681,-4.39654 z"
+       id="path4150"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:#be284b;fill-opacity:1;stroke:none;stroke-width:91.94599915;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5855"
+       cx="788.10266"
+       cy="673.383"
+       r="18.695572"
+       inkscape:export-xdpi="100.15573"
+       inkscape:export-ydpi="100.15573"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+       inkscape:export-filename="/home/akaifi/WWW/akaifiIcon1.png" />
+  </g>
+</svg>
