@@ -1,6 +1,6 @@
 ![](img/ficon/faviconRWHover.svg)
 <!--https://raw.githubusercontent.com/akaifi/akaifi.github.io/master/img/ficon/faviconRWHover.svg)-->
-
+# <img src='https://akaifi.github.io/img/ficon/faviconRWHover.svg' width="200" height="200" />
 
 # <img src='https://raw.githubusercontent.com/akaifi/akaifi.github.io/master/img/AK100.png' width="200" height="200" /> akaifi.github.io
 _My GitHub Page_
