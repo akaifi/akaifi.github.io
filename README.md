@@ -1,3 +1,6 @@
+[!Logo]{https://raw.githubusercontent.com/akaifi/akaifi.github.io/master/img/ficon/faviconRWHover.svg}
+
+
 # <img src='https://raw.githubusercontent.com/akaifi/akaifi.github.io/master/img/AK100.png' width="200" height="200" /> akaifi.github.io
 _My GitHub Page_
 
