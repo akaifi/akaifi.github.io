@@ -1,9 +1,10 @@
 ![](img/ficon/faviconRWHover.svg)
 <!--https://raw.githubusercontent.com/akaifi/akaifi.github.io/master/img/ficon/faviconRWHover.svg)-->
-# <img src='https://akaifi.github.io/img/ficon/faviconRWHover.svg' width="200" height="200" />
+# <img src='https://akaifi.github.io/img/ficon/faviconRWHover.svg' width="100" height="100" /> akaifi.github.io
+Ahmad Adnan Kaifi GitHub Page
 
-# <img src='https://raw.githubusercontent.com/akaifi/akaifi.github.io/master/img/AK100.png' width="200" height="200" /> akaifi.github.io
-_My GitHub Page_
+<!--# <img src='https://raw.githubusercontent.com/akaifi/akaifi.github.io/master/img/AK100.png' width="200" height="200" /> -->
+<!--_My GitHub Page_-->
 
 
 Here you find the source code of my website. Nothing fancy! Hope you like it
