@@ -445,3 +445,10 @@ div.navbar-brand-hover:hover + #btnUp {
   color: #f2f2f2;
   background-color: transparent;
 }
+a#ar-lang {
+  font-family: 'Droid Arabic Kufi', sans-serif;
+  font-size: .7em;
+}
+a#ar-lang:hover {
+  color: #BE284B;
+}
