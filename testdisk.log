@@ -1,0 +1,38 @@
+
+
+Sun Dec 27 18:51:03 2015
+Command line: TestDisk
+
+TestDisk 7.0, Data Recovery Utility, April 2015
+Christophe GRENIER <grenier@cgsecurity.org>
+http://www.cgsecurity.org
+OS: Linux, kernel 4.2.7-300.fc23.x86_64 (#1 SMP Wed Dec 9 22:28:30 UTC 2015) x86_64
+Compiler: GCC 5.1
+Compilation date: 2015-06-19T03:55:42
+ext2fs lib: 1.42.13, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: 20140608, curses lib: ncurses 5.9
+/dev/sda: LBA, HPA, LBA48 support
+/dev/sda: size       234441648 sectors
+/dev/sda: user_max   234441648 sectors
+/dev/sda: native_max 234441648 sectors
+/dev/sdb: LBA, HPA, LBA48, DCO support
+/dev/sdb: size       312581808 sectors
+/dev/sdb: user_max   312581808 sectors
+/dev/sdb: native_max 312581808 sectors
+/dev/sdc: LBA, LBA48, DCO support
+/dev/sdc: size       488397168 sectors
+/dev/sdc: user_max   488397168 sectors
+/dev/sdd: LBA, HPA, LBA48, DCO support
+/dev/sdd: size       500118192 sectors
+/dev/sdd: user_max   500118192 sectors
+/dev/sdd: native_max 500118192 sectors
+Warning: can't get size for Disk /dev/mapper/control - 0 B - 0 sectors, sector size=512
+Hard disk list
+Disk /dev/sda - 120 GB / 111 GiB - CHS 14593 255 63, sector size=512 - KINGSTON SV300S37A120G, S/N:50026B774A061AB1, FW:583ABBF0
+Disk /dev/sdb - 160 GB / 149 GiB - CHS 19457 255 63, sector size=512 - TOSHIBA MK1637GSX, S/N:Z785C3S3T, FW:DL030G
+Disk /dev/sdc - 250 GB / 232 GiB - CHS 30401 255 63, sector size=512 - Hitachi HTS542525K9SA00, S/N:080323BB0F00WDCY79SC, FW:BBFOC32P
+Disk /dev/sdd - 256 GB / 238 GiB - CHS 31130 255 63, sector size=512 - Samsung SSD 840 PRO Series, S/N:S1ATNSADA26068B, FW:DXM06B0Q
+Disk /dev/sde - 31 GB / 29 GiB - CHS 30008 64 32, sector size=512 - Kingston DT microDuo 3.0, FW:PMAP
+Disk /dev/sdf - 500 GB / 465 GiB - CHS 60801 255 63, sector size=512 - WD 5000BEV External, FW:1.75
+
+
+TestDisk exited normally.

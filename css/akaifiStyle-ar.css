@@ -329,3 +329,22 @@ a#en-lang {
 a#en-lang:hover {
   color: #BE284B;
 }
+.model-body h2 {
+  font-family: "Droid Arabic Kufi", sans-serif;
+}
+.projects-modal .modal-content h2 {
+    font-family: "Droid Arabic Kufi", sans-serif;
+}
+#contactForm {
+  text-align: right;
+}
+.form-control {
+  text-align: right;
+  font-family: Montserrat, 'Lato', 'Droid Arabic Kufi', sans-serif;
+  height: 45px;
+}
+.help-block {
+    color: #a94442;
+    text-align: center;
+    font-family: 'Lato', sans;
+}

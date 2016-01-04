@@ -67,7 +67,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   text-align: center;
-  color: #fff
+  color: #be284b
 }
 header .container {
   padding-top: 100px;
@@ -224,6 +224,15 @@ section.success a, section.success a:hover, section.success a:focus, section.suc
   right: 0;
   margin: 0 0 15px;
 }
+#projects img.projects-img {
+  max-height: 300px;
+  position: absolute;
+   margin: auto;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+}
 #projects .projects-item .projects-link {
   position: relative;
   display: block;
@@ -238,7 +247,7 @@ section.success a, section.success a:hover, section.success a:focus, section.suc
   -moz-transition: all ease .5s;
   transition: all ease .5s;
   opacity: 0;
-  background: rgba(24, 188, 156, .9);
+  background: rgba(190, 40, 75, 0.9);
 }
 #projects .projects-item .projects-link .caption:hover {
   opacity: 1;
@@ -439,7 +448,7 @@ div.navbar-brand-hover:hover .navbar-brand {
   color: #BE284B;
 }
 div.navbar-brand-hover:hover + #btnUp {
-  background-image: url("../img/ficon/faviconRWHover.svg") 85px 85px center no-repeat,
+  background-image: url(../img/ficon/faviconRWHover.svg) 85px 85px center no-repeat,
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
   color: #f2f2f2;
@@ -451,4 +460,25 @@ a#ar-lang {
 }
 a#ar-lang:hover {
   color: #BE284B;
+}
+#circle {
+  top: 50%;
+    width: 220px;
+    height: 220px;
+    background: #f2f2f2;
+    -moz-border-radius: 110px;
+    -webkit-border-radius: 110px;
+    border-radius: 110px;
+    vertical-align: middle;
+    margin: auto auto;
+    background-image: url(../img/projects/pticon.png);
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center center;
+    margin-top: 20px;
+}
+.pt-cont {
+  width:360px;
+  height:260px;
+  background-color: #3f3f3f;
 }
