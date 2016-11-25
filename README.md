@@ -1,4 +1,4 @@
-![](img/ficon/faviconRWHover.svg)
+<!--![](img/ficon/faviconRWHover.svg)-->
 <!--https://raw.githubusercontent.com/akaifi/akaifi.github.io/master/img/ficon/faviconRWHover.svg)-->
 # <img src='https://akaifi.github.io/img/ficon/faviconRWHover.svg' width="100" height="100" /> akaifi.github.io
 [![star this repo](http://githubbadges.com/star.svg?user=akaifi&repo=akaifi.github.io&style=flat&color=f2f2f2&background=222222)](https://github.com/akaifi/akaifi.github.io/star)
